@@ -5,7 +5,7 @@
 
 .MMM-GoogleTasks .item {
     text-align: left;
-      padding-bottom: .25em;
+    padding-bottom: 0.25em;
 }
 
 /* .MMM-GoogleTasks .item.title {
@@ -17,7 +17,7 @@
 }
 
 .MMM-GoogleTasks .item.notes {
-      padding-left: .95em;
+    padding-left: 0.95em;
     font-size: 0.8em;
     padding-bottom: 0;
 }
@@ -29,7 +29,7 @@
 
 .MMM-GoogleTasks .fa {
     vertical-align: middle;
-    padding-bottom: .25em;
-    padding-right: .25em;
-    font-size: 0.60em;
+    padding-bottom: 0.25em;
+    padding-right: 0.25em;
+    font-size: 0.6em;
 }
