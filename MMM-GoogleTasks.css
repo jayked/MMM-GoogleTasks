@@ -1,36 +1,35 @@
-  .MMM-GoogleTasks .container {
-      display: grid;
-      grid-template-columns: 1fr auto;
-      transform: translateY(-.6em);
-  }
+.MMM-GoogleTasks .container {
+    display: grid;
+    grid-template-columns: 1fr auto;
+}
 
-  .MMM-GoogleTasks .item {
-      text-align: left;
+.MMM-GoogleTasks .item {
+    text-align: left;
       padding-bottom: .25em;
-      }
+}
 
-  /* .MMM-GoogleTasks .item.title {
+/* .MMM-GoogleTasks .item.title {
   } */
 
-  .MMM-GoogleTasks .item.date {
-      padding-left: 1.7em;
-      text-align: right;
-  }
+.MMM-GoogleTasks .item.date {
+    padding-left: 1.7em;
+    text-align: right;
+}
 
-  .MMM-GoogleTasks .item.notes {
+.MMM-GoogleTasks .item.notes {
       padding-left: .95em;
-      font-size: 0.8em;
-      padding-bottom: 0;
-  }
+    font-size: 0.8em;
+    padding-bottom: 0;
+}
 
-  .MMM-GoogleTasks .item.child {
-      text-align: left;
-      padding-left: 1.5em;
-  }
+.MMM-GoogleTasks .item.child {
+    text-align: left;
+    padding-left: 1.5em;
+}
 
-  .MMM-GoogleTasks .fa  {
+.MMM-GoogleTasks .fa {
     vertical-align: middle;
     padding-bottom: .25em;
     padding-right: .25em;
     font-size: 0.60em;
-  }
+}
